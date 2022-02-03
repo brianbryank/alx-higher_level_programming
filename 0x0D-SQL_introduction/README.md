@@ -1,5 +1,6 @@
-# 0x0D. SQL - Introduction
-# Resources
+0x0D. SQL - Introduction
+
+Resources
 
 Read or watch:
 
